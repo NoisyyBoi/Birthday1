@@ -1,0 +1,7 @@
+Personal media included in this project:
+- photos/memory-01.jpg through photos/memory-25.jpg (all 25 uploaded photos)
+- our-video.mp4 (autoplay + muted + looping + playsInline)
+- voice-note.mp3 (the previously supplied voice note)
+
+The video is intentionally muted on autoplay because browsers commonly block autoplay with sound.
+Gift boxes are interactive: mark each physical gift received to unlock the final birthday message.
